@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Noumanaref/Algo/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Noumanaref/Algo/tree/master/0577-employee-bonus) |
 | [1164-product-price-at-a-given-date](https://github.com/Noumanaref/Algo/tree/master/1164-product-price-at-a-given-date) |
+| [1934-confirmation-rate](https://github.com/Noumanaref/Algo/tree/master/1934-confirmation-rate) |
 ## Array
 |  |
 | ------- |
