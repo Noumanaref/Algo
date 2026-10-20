@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Noumanaref/Algo/tree/master/0577-employee-bonus) |
 | [1075-project-employees-i](https://github.com/Noumanaref/Algo/tree/master/1075-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Noumanaref/Algo/tree/master/1164-product-price-at-a-given-date) |
+| [1211-queries-quality-and-percentage](https://github.com/Noumanaref/Algo/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Noumanaref/Algo/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Noumanaref/Algo/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1934-confirmation-rate](https://github.com/Noumanaref/Algo/tree/master/1934-confirmation-rate) |
